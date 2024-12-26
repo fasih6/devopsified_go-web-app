@@ -1,0 +1,4 @@
+go build -o main .
+
+to run the app : ./main
+
